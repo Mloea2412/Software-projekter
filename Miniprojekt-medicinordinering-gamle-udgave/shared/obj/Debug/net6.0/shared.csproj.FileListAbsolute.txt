@@ -1,0 +1,11 @@
+/Users/marie-louise/Desktop/MiniProjekt-Medicin-ordinering/shared/bin/Debug/net6.0/shared.deps.json
+/Users/marie-louise/Desktop/MiniProjekt-Medicin-ordinering/shared/bin/Debug/net6.0/shared.dll
+/Users/marie-louise/Desktop/MiniProjekt-Medicin-ordinering/shared/bin/Debug/net6.0/shared.pdb
+/Users/marie-louise/Desktop/MiniProjekt-Medicin-ordinering/shared/obj/Debug/net6.0/shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marie-louise/Desktop/MiniProjekt-Medicin-ordinering/shared/obj/Debug/net6.0/shared.AssemblyInfoInputs.cache
+/Users/marie-louise/Desktop/MiniProjekt-Medicin-ordinering/shared/obj/Debug/net6.0/shared.AssemblyInfo.cs
+/Users/marie-louise/Desktop/MiniProjekt-Medicin-ordinering/shared/obj/Debug/net6.0/shared.csproj.CoreCompileInputs.cache
+/Users/marie-louise/Desktop/MiniProjekt-Medicin-ordinering/shared/obj/Debug/net6.0/shared.dll
+/Users/marie-louise/Desktop/MiniProjekt-Medicin-ordinering/shared/obj/Debug/net6.0/refint/shared.dll
+/Users/marie-louise/Desktop/MiniProjekt-Medicin-ordinering/shared/obj/Debug/net6.0/shared.pdb
+/Users/marie-louise/Desktop/MiniProjekt-Medicin-ordinering/shared/obj/Debug/net6.0/ref/shared.dll
